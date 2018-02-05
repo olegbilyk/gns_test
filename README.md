@@ -15,6 +15,12 @@ $ npm i
 $ npm run start
 ```
 
+##### Open in browser
+
+```
+http://localhost:8080/
+```
+
 #### Build
 
 ```
